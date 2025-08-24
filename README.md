@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hamed</h1>
 <h3 align="center">Computer Engineering Student | Aspiring Software Developer</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250"/>
+</p>
 
 ---
 
@@ -37,9 +40,9 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, Java, C, JavaScript  
-- **Frameworks:** JavaFX, Flask  
+- **Frameworks:** JavaFX  
 - **Databases:** SQLite, SQL Server  
-- **Other Tools:** Git, GitHub, Linux  
+- **Other Tools:** Git, GitHub  
 
 ---
 
